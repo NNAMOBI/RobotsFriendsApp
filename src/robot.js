@@ -1,7 +1,7 @@
 export const robots = [
   {
     id: 1,
-    name: "Leanne Graham",
+    name: "Nnamo",
     username: "Bret",
     email: "Sincere@april.biz",
     address: {
@@ -24,7 +24,7 @@ export const robots = [
   },
   {
     id: 2,
-    name: "Ervin Howell",
+    name: "gidi",
     username: "Antonette",
     email: "Shanna@melissa.tv",
     address: {
@@ -47,7 +47,7 @@ export const robots = [
   },
   {
     id: 3,
-    name: "Clementine Bauch",
+    name: "Indaboski",
     username: "Samantha",
     email: "Nathan@yesenia.net",
     address: {
@@ -70,7 +70,7 @@ export const robots = [
   },
   {
     id: 4,
-    name: "Patricia Lebsack",
+    name: "maitaima",
     username: "Karianne",
     email: "Julianne.OConner@kory.org",
     address: {
@@ -93,7 +93,7 @@ export const robots = [
   },
   {
     id: 5,
-    name: "Chelsey Dietrich",
+    name: "Chelsey lad",
     username: "Kamren",
     email: "Lucio_Hettinger@annie.ca",
     address: {
@@ -116,7 +116,7 @@ export const robots = [
   },
   {
     id: 6,
-    name: "Mrs. Dennis Schulist",
+    name: "Mrs glora ananobi",
     username: "Leopoldo_Corkery",
     email: "Karley_Dach@jasper.info",
     address: {
@@ -139,7 +139,7 @@ export const robots = [
   },
   {
     id: 7,
-    name: "Kurtis Weissnat",
+    name: "Kurtis jackson",
     username: "Elwyn.Skiles",
     email: "Telly.Hoeger@billy.biz",
     address: {
@@ -162,7 +162,7 @@ export const robots = [
   },
   {
     id: 8,
-    name: "Nicholas Runolfsdottir V",
+    name: "Nicholai",
     username: "Maxime_Nienow",
     email: "Sherwood@rosamond.me",
     address: {
@@ -185,7 +185,7 @@ export const robots = [
   },
   {
     id: 9,
-    name: "Glenna Reichert",
+    name: "Graham",
     username: "Delphine",
     email: "Chaim_McDermott@dana.io",
     address: {
@@ -208,7 +208,7 @@ export const robots = [
   },
   {
     id: 10,
-    name: "Clementina DuBuque",
+    name: "Clement aureois",
     username: "Moriah.Stanton",
     email: "Rey.Padberg@karina.biz",
     address: {
